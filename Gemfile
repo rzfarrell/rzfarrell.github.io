@@ -8,6 +8,6 @@ gemspec
 gem 'wdm', '>= 0.1.0'
 gem "webrick", "~> 1.8"
 
-gem "tzinfo", "~> 2.0"
+gem "tzinfo", "~> 2.0", require: false
 
-gem "tzinfo-data", "~> 1.2022"
+gem "tzinfo-data", "~> 1.2022", require: false
