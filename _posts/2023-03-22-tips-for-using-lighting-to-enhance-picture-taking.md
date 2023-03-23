@@ -2,7 +2,9 @@
 layout: post
 title: "5 Tips for Using Lighting to Enhance Picture Taking"
 date: 2023-03-22
-categories: Photography, Lighting, Tips
+cover-img: /assets/img/lighting_tips_post.png
+thumbnail-img: /assets/img/lighting_tips_thumb.png
+tags: [photography, lighting, tips]
 ---
 
 Lighting is one of the most important factors in photography. Whether you are taking portraits, landscapes, or still life photos, lighting can make a significant impact on the final image. In this post, we’ll share five tips for using lighting to enhance your picture taking.
