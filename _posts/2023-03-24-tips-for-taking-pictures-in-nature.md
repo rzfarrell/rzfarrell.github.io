@@ -2,8 +2,8 @@
 layout: post
 title: "5 Tips for Taking Pictures in Nature"
 date: 2023-03-24
-cover-img: /assets/img/lighting_tips_post.png
-thumbnail-img: /assets/img/lighting_tips_thumb.png
+cover-img: /assets/img/pictures_in_nature_post.png
+thumbnail-img: /assets/img/pictures_in_nature_thumb.png
 categories: Photography, Nature, Tips, Pictures
 ---
 
