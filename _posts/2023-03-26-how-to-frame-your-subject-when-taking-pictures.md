@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Frame Your Subject When Taking Pictures"
-date: 2023-03-22
+date: 2023-03-26
 cover-img: /assets/img/framing_subjects_post.png
 thumbnail-img: /assets/img/framing_subjects_thumb.png
 categories: Photography, Tips
