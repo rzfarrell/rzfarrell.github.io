@@ -29,6 +29,18 @@ common-js:
 
   {{ content }}
 
+  <div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %} mt-3">
+    <div class="row">
+      <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
+        <div class="after-content">
+          <a href="https://mailapicture.com" aria-label="Mail A Picture.com">
+            <img src="/assets/img/banner.png" alt="The perfect way to stay connected">
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
   {% include footer.html %}
 
   {% include footer-scripts.html %}
