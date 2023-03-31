@@ -116,6 +116,10 @@ navbar-var-length: false
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
 
+url: "https://blog.mailapicture.com" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+
 ######################################
 # --- Colours / background image --- #
 ######################################
