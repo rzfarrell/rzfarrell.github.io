@@ -3,7 +3,6 @@ layout: post
 title: "Why Postcards Make a Great Announcement Format"
 date: 2023-05-28
 categories: postcards announcements communication
-cover-img: /assets/img/announcement_format_post.png
 thumbnail-img: /assets/img/announcement_format_thumb.png
 ---
 
